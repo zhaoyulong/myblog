@@ -36,4 +36,4 @@ DEFAULT_PAGINATION = False
 
 OUTPUT_PATH = '../zhaoyulong.github.io/'
 OUTPUT_RETENTION = ['.git']
-
+DELETE_OUTPUT_DIRECTORY = False
